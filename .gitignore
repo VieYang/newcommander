@@ -7,3 +7,4 @@ newcommander
 newcommander.exe
 config.toml
 error.log
+/dist
